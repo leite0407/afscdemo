@@ -1,0 +1,15 @@
+check50:
+  checks:
+    ex1:
+      - run: python3 ex1.py
+        stdout: 68640
+        exit: 0
+    ex2:
+      - run: python3 ex2.py
+        stdout: 26497
+        exit: 0
+
+submit50:
+  files:
+    - !include ex1.py
+    - !include ex2.py
