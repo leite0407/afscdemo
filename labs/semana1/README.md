@@ -14,3 +14,15 @@ Ajuda adicional!
 
 {% endspoiler %}
 
+### Embedded videos
+
+
+
+### Várias páginas
+
+{% next "Ver o primeiro exercício!" %}
+
+## Exercício 1
+
+Uma milha corresponde a 5280 pés. No ficheiro `ex1.py`, escreve uma linha de Python que imprime na consola o número de pés em 13 milhas.
+
