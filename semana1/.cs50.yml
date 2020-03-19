@@ -1,0 +1,4 @@
+lab50:
+  files:
+    - !include ex1.py
+    - !include ex2.py
