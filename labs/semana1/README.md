@@ -6,3 +6,11 @@ Podem ver [aqui](https://cs50.readthedocs.io/lab/) um tutorial de como criar coi
 
 Estas instruções foram escritas em markup. Para além de todas as funcionalidades do markup, ainda tem mais algumas coisas:
 
+### Spoiler tags
+
+{% spoiler "Preciso de ajuda!" %}
+
+Ajuda adicional!
+
+{% endspoiler %}
+
