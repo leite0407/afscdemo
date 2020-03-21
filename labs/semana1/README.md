@@ -16,7 +16,7 @@ Ajuda adicional!
 
 ### Embedded videos
 
-
+{% video https://www.youtube.com/watch?v=U6XFGEDKinY %}
 
 ### Várias páginas
 
@@ -30,7 +30,7 @@ Podes correr o teu código escrevendo na consola (caixa preta por baixo do códi
 
 Podes correr o comando abaixo para confirmar que o teu código faz o que é suposto:
 
-`check50 leite0407/AfterSchoolTesteChecks/master/semana1/ex1`
+`check50 leite0407/afscdemo/master/checks/semana1`
 
 Assumindo que fizeste bem o exercicio, deves ter reparado que o teu código passou num teste e no outro não. Isso é porque esse teste é para o segundo exercício, que, claro, ainda não fizeste.
 
@@ -42,4 +42,8 @@ No ficheiro `ex2.py` (tens de mudar de tab, olha para o topo do editor ao lado),
 
 Podes voltar a correr o comando abaixo, desta vez o teu código deve passar em ambos os testes:
 
-`check50 leite0407/AfterSchoolTesteChecks/master/semana1/ex1`
+`check50 leite0407/afscdemo/master/checks/semana1`
+
+Por fim, podes submeter o teu código usando:
+
+`submit50 leite0407/afscdemo/master/checks/semana1`
